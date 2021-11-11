@@ -1,0 +1,14 @@
+{
+  "name": "usingtherevealingprototypepattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PartTimeMentor.js",
+  "scripts": {
+    "test": "jasmine-node --captureExceptions spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.16.2"
+  }
+}

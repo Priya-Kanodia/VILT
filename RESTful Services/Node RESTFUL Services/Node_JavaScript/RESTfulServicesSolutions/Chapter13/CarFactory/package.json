@@ -1,0 +1,14 @@
+{
+  "name": "carfactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CarFactory.js",
+  "scripts": {
+    "test": "jasmine-node --captureExceptions spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.16.2"
+  }
+}

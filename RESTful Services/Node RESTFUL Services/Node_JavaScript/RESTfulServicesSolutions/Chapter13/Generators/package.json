@@ -1,0 +1,15 @@
+{
+  "name": "generators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Fibonacci.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-node": "^1.16.2"
+  },
+  "scripts": {
+    "test": "jasmine-node --captureExceptions spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
